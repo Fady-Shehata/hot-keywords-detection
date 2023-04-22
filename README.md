@@ -3,7 +3,7 @@ Find Hot Keywords in sample article from BBC News data using different NLP techn
 
 <p align="center">
   &nbsp;&nbsp;
-<img src="https://cxd.studio/wp-content/uploads/2022/08/Emerging-keywords-are-so-hot-right-now-710x400.png" width="700" height="800" />
+<img src="https://cxd.studio/wp-content/uploads/2022/08/Emerging-keywords-are-so-hot-right-now-710x400.png" width="900" height="400" />
 &nbsp;&nbsp;
 
 </p>
